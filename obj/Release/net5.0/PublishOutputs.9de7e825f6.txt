@@ -1,0 +1,5 @@
+C:\Users\lane\OneDrive\Documents\VSCode\NumberGuessingGame\bin\Release\net5.0\publish\NumberGuessingGame.exe
+C:\Users\lane\OneDrive\Documents\VSCode\NumberGuessingGame\bin\Release\net5.0\publish\NumberGuessingGame.dll
+C:\Users\lane\OneDrive\Documents\VSCode\NumberGuessingGame\bin\Release\net5.0\publish\NumberGuessingGame.deps.json
+C:\Users\lane\OneDrive\Documents\VSCode\NumberGuessingGame\bin\Release\net5.0\publish\NumberGuessingGame.runtimeconfig.json
+C:\Users\lane\OneDrive\Documents\VSCode\NumberGuessingGame\bin\Release\net5.0\publish\NumberGuessingGame.pdb
